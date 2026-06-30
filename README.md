@@ -166,16 +166,16 @@ Developed a scalable and fully responsive Full Stack Portfolio Platform that ena
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shakeel645&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakeel645&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel645&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shakeel645&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shakeel645&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shakeel645&theme=tokyonight"/>
+</p>
 # 📈 Activity Graph
 
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=shakeel645&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
