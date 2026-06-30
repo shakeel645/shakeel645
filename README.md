@@ -176,6 +176,8 @@ Developed a scalable and fully responsive Full Stack Portfolio Platform that ena
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=shakeel645&theme=tokyonight"/>
 </p>
+
+
 # 📈 Activity Graph
 
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=shakeel645&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
